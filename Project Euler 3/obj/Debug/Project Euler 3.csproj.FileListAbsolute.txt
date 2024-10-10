@@ -1,0 +1,8 @@
+U:\Visual Studio 2025\Project Euler 3\Project Euler 3\bin\Debug\Project Euler 3.exe.config
+U:\Visual Studio 2025\Project Euler 3\Project Euler 3\bin\Debug\Project Euler 3.exe
+U:\Visual Studio 2025\Project Euler 3\Project Euler 3\bin\Debug\Project Euler 3.pdb
+U:\Visual Studio 2025\Project Euler 3\Project Euler 3\obj\Debug\Project Euler 3.csproj.AssemblyReference.cache
+U:\Visual Studio 2025\Project Euler 3\Project Euler 3\obj\Debug\Project Euler 3.csproj.SuggestedBindingRedirects.cache
+U:\Visual Studio 2025\Project Euler 3\Project Euler 3\obj\Debug\Project Euler 3.csproj.CoreCompileInputs.cache
+U:\Visual Studio 2025\Project Euler 3\Project Euler 3\obj\Debug\Project Euler 3.exe
+U:\Visual Studio 2025\Project Euler 3\Project Euler 3\obj\Debug\Project Euler 3.pdb
